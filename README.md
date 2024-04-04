@@ -17,3 +17,5 @@ Note that you are not recommended to use root credential for access key, the alt
 [guide](https://www.msp360.com/resources/blog/how-to-find-your-aws-access-key-id-and-secret-access-key/#:~:text=1%20Go%20to%20Amazon%20Web,and%20Secret%20Access%20Key)%20option.)
 
 3. Create a Virtual Private Network to host the SageMaker instance following the following [guide](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-dev-test.html) 
+
+4. Create SageMaker studio and follow instructions in this [guide](https://aws.amazon.com/tutorials/machine-learning-tutorial-deploy-model-to-real-time-inference-endpoint/)
