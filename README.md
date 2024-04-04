@@ -18,4 +18,7 @@ Note that you are not recommended to use root credential for access key, the alt
 
 3. Create a Virtual Private Network to host the SageMaker instance following the following [guide](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-dev-test.html) 
 
-4. Create SageMaker studio and follow instructions in this [guide](https://aws.amazon.com/tutorials/machine-learning-tutorial-deploy-model-to-real-time-inference-endpoint/)
+4. Create SageMaker studio and follow instructions in these guides:
+a. This [guide](https://aws.amazon.com/tutorials/machine-learning-tutorial-deploy-model-to-real-time-inference-endpoint/) does not work as Python 3.7 is longer accepted, but it is a good reference point
+b. This is the working [guide](https://docs.aws.amazon.com/sagemaker/latest/dg/onboard-quick-start.html#onboard-quick-start-defaults). Use the setup for single user on SageMaker landing page
+5. 
