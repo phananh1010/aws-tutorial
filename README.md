@@ -1,0 +1,1 @@
+This repository contains various tutorial to use AWS. Each file is a separated instruction for an isolated scenario. As I expect you could finish the tutorial from scratch without any major requisites, the material across file could be duplicated.
