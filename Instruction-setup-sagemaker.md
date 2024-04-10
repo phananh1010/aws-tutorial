@@ -1,5 +1,5 @@
 # Introduction
-This README contains some notes on how to start using aws. You must already have an AWS account to use this document
+This README contains instruction to setup SageMaker from scratch, assuming what you only have is an aws account with root permission.
 
 # Content
 1. Setup aws
