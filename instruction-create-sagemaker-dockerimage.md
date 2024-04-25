@@ -21,3 +21,5 @@ region=${region:-us-west-2} #will us us-west-2 if get region failed
 aws ecr get-login-password --region ${region} | docker login --username AWS --password-stdin ${account}.dkr.ecr.${region}.amazonaws.com
 ```
 [source](https://docs.aws.amazon.com/AmazonECR/latest/userguide/registry_auth.html)
+
+Refer to the `build_and_push.sh` for further detail
